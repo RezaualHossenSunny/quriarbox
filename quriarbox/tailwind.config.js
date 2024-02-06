@@ -13,6 +13,10 @@ export default {
         'ral': ['Raleway', 'sans-serif']
        
       }
+      ,
+      colors: {
+        'comon': '#F95C19',
+      },
     },
   },
   maxWidth:{

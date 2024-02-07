@@ -10,12 +10,14 @@ export default {
         'container': '1140px',
       },
       fontFamily: {
-        'ral': ['Raleway', 'sans-serif']
+        'ral': ['Raleway', 'sans-serif'],
+        'oxium': [ 'Oxanium', 'sans-serif']
        
       }
       ,
       colors: {
         'comon': '#F95C19',
+        'baner': '#fff7e7dd',
       },
     },
   },

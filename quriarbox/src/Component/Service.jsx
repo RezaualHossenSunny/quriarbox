@@ -1,8 +1,8 @@
 import React from 'react'
-
+ import icon from '../assets/iCON.jpg'
 const Service = () => {
   return (
-    <div className='bg-baner py-20'>
+    <div className='bg-baner py-1'>
     <div className='max-w-container mx-auto '>
     {/* text */}
       <div className='text-center'>
@@ -13,7 +13,12 @@ const Service = () => {
       {/* text */}
 
       <div className='flex  py-20'>
-        <div className=''></div>
+        <div className=' bg-white py-40 px-24'>
+            <img className='mx-auto' src={icon}/>
+            <h1 className='mt-7 mx-auto text-center font-ral text-2xl font-extrabold text-[#464558] w-[222px] h-[26px]'>Business Services</h1>
+            <p className='mt-8 font-ral text-base font-normal text-[#7B7A8B] w-[310px]  mx-auto '>We give you complete reliable delivery for your company.  We will take full responsibility of the deliveries.</p>
+            
+        </div>
         <div className=''></div>
         <div className=''></div>
       </div>

@@ -19,6 +19,10 @@ export default {
         'comon': '#F95C19',
         'baner': '#fff7e7dd',
       },
+      backgroundImage: {
+        'covers': "url('./src/assets/Rectangle 12.png')",
+        
+      }
     },
   },
   maxWidth:{

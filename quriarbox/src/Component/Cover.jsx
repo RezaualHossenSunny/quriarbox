@@ -2,9 +2,9 @@ import React from 'react'
 import icon from '../assets/Icon.png'
 const Cover = () => {
     return (
-        <div className='bg-baner'>
-            <div className='py-40 max-w-container mx-auto'>
-                <div className='bg-covers bg-no-repeat bg-cover bg-center'>
+        <div className='bg-baner ml-[220px]'>
+            <div className='py-40 max-w-container  mx-auto'>
+                <div className='bg-covers bg-no-repeat bg-cover bg-center '>
                     <div className='py-40'>
                         <div>
                             <img className='mx-auto' src={icon} />
